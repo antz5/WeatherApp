@@ -1,0 +1,12 @@
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\WeatherAPI.Agents.dll.config
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\WeatherAPI.Agents.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\WeatherAPI.Agents.pdb
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\Newtonsoft.Json.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\RestSharp.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\WeatherAPI.Models.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\WeatherAPI.Models.pdb
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\Newtonsoft.Json.xml
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\bin\Debug\RestSharp.xml
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\obj\Debug\WeatherAPI.Agents.csprojResolveAssemblyReference.cache
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\obj\Debug\WeatherAPI.Agents.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents\obj\Debug\WeatherAPI.Agents.pdb

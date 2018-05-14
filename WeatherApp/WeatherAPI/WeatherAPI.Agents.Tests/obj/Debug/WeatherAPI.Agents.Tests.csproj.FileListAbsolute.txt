@@ -1,0 +1,5 @@
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents.Tests\bin\Debug\WeatherAPI.Agents.Tests.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents.Tests\bin\Debug\WeatherAPI.Agents.Tests.pdb
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents.Tests\obj\Debug\WeatherAPI.Agents.Tests.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Agents.Tests\obj\Debug\WeatherAPI.Agents.Tests.pdb

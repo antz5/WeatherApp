@@ -1,0 +1,4 @@
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Models\bin\Debug\WeatherAPI.Models.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Models\bin\Debug\WeatherAPI.Models.pdb
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Models\obj\Debug\WeatherAPI.Models.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.Models\obj\Debug\WeatherAPI.Models.pdb

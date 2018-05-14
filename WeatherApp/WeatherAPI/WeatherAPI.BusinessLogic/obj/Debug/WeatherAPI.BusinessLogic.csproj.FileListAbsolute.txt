@@ -1,0 +1,14 @@
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\WeatherAPI.BusinessLogic.dll.config
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\WeatherAPI.BusinessLogic.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\WeatherAPI.BusinessLogic.pdb
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\WeatherAPI.Agents.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\WeatherAPI.Models.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\RestSharp.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\WeatherAPI.Agents.pdb
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\WeatherAPI.Models.pdb
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\bin\Debug\RestSharp.xml
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\obj\Debug\WeatherAPI.BusinessLogic.csprojResolveAssemblyReference.cache
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\obj\Debug\WeatherAPI.BusinessLogic.dll
+F:\Sample\WeatherApp\WeatherAPI\WeatherAPI.BusinessLogic\obj\Debug\WeatherAPI.BusinessLogic.pdb

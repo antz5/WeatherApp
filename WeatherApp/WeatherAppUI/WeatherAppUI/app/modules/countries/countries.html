@@ -1,0 +1,32 @@
+﻿<div ng-controller="countriesController">
+  
+   
+    <div>
+        <select ng-model="selectedCountry" ng-options="country.name for country in countries" ng-change="selectAction()">
+            <option value=""> Please select a country </option>
+        </select>
+      
+    </div>   
+    <p></p>
+    <p></p>
+    <div>    
+        <select ng-model="selectedCity" ng-options="city.name for city in cities" ng-change="selectCityAction()">
+            <option value=""> Please select a city </option>
+        </select>
+    </div>
+    <p></p>
+    <p></p>
+    <div ng-hide="hide">
+        <label class="font-weight-bold">Location:</label> {{weather.name}} <br />
+        <label class="font-weight-bold">Time:</label> {{weather.dt}}<br />
+        <label class="font-weight-bold">Wind:</label> {{weather.wind.speed}}<br />
+        <label class="font-weight-bold">Visibility:</label> {{weather.visibility}}<br />
+        <label class="font-weight-bold">Sky Conditions:</label> {{weather.weather.main}}     {{weather.description}}<br />
+        <label class="font-weight-bold">Temperature:</label>  {{weather.main.temp}}<br />
+        <label class="font-weight-bold"> Dew Point:</label>-NA-<br />
+        <label class="font-weight-bold">Relative humidity:</label>  {{weather.main.humidity}}<br />
+        <label class="font-weight-bold"> Pressure:</label> {{weather.main.pressure}}<br />
+        
+    </div>
+
+</div>
